@@ -1,0 +1,7 @@
+{
+  "name": "whather",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
